@@ -5,7 +5,8 @@ Dit is goed
 Dit is goed 
 dit is goed. # behalve de hoofdletter dan
 
-
+Dit is een nieuwe regel die in een nieuwe commit komt.
+Dit is een andere nieuwe regel in een een nieuwe commit komt.
 
 
 En hier op regel 11 zet ik nog wat nieuws dat ik graag in master wil hebben.
