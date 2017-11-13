@@ -5,3 +5,5 @@ Dit is goed
 Dit is goed 
 dit is goed. # behalve de hoofdletter dan
 
+Dit is een nieuwe regel die in een nieuwe commit komt.
+
