@@ -1,3 +1,5 @@
 Dit is text2.txt
 
 Waar zou het terecht komen?
+
+Nu schrijf ik wat op regel 5 voor feature 1.
